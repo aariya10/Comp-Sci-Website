@@ -10,14 +10,13 @@ body {background:magenta;}
 </head>
 
 <body>
-<h1> Hooray! </h1>
+<h1> Title </h1>
 <p> Lots of words. </p>
 </body>
 
 </head>
 <body>
-<h4> WHAT!?!? </h4>
-<p> I love Taylor Swift. </p>
-<p> <strong>yes yes yes yes</strong> yes yes yes yes. </p>
+<h1> Title 2 </h1>
+<p> More words </p>
 </body>
 </html>
