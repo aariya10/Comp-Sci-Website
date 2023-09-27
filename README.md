@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>  </title>
+<title>Pasta</title>
 <style>
 p {font-family: lato;}
 body {background:magenta;}
