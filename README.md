@@ -31,7 +31,7 @@ p {font-family: lato;}
     </ul>
   <h4><strong>Instructions:</strong></h4>
    <ol>
-      <li>Roast the Red Peppers:</li>
+     <li>Roast the Red Peppers:</li>
     <ul>
       <li>Preheat the oven's broiler</li>
       <li>Place red bell peppers on a baking sheet and put them under the broiler</li>
@@ -44,8 +44,7 @@ p {font-family: lato;}
    <ul>
       <li>Cook pasta according to the package instructions until al dente; drain and set aside</li>
    </ul>
-  <ol>
-      <li>Make the Sauce:</li>
+     <li>Make the Sauce:</li>
    <ul>
       <li>In a large skillet, heat olive oil over medium heat</li>
       <li>Add minced garlic and chopped onion, and sauté for 2-3 minutes until the onion becomes translucent</li>
@@ -54,8 +53,7 @@ p {font-family: lato;}
       <li>Pour the blended sauce back into the skillet, and stir in heavy cream, dried basil, dried oregano, red pepper flakes, salt, and black pepper</li>
       <li>Allow the sauce to simmer for 5-7 minutes, and adjut the seasonings to taste</li>
    </ul>
-   <ol>
-      <li>Serve:</li>
+     <li>Serve:</li>
    </ol>
    <ul>
       <li>Add the cooked pasta to the sauce and toss until the pasta is well coated in sauce</li>
