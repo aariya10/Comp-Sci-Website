@@ -32,7 +32,6 @@ p {font-family: lato;}
   <h4><strong>Instructions:</strong></h4>
    <ol>
       <li>Roast the Red Peppers:</li>
-   </ol>
     <ul>
       <li>Preheat the oven's broiler</li>
       <li>Place red bell peppers on a baking sheet and put them under the broiler</li>
@@ -42,13 +41,11 @@ p {font-family: lato;}
     </ul>
   <ol>
       <li>Cook the Pasta:</li>
-  </ol>
    <ul>
       <li>Cook pasta according to the package instructions until al dente; drain and set aside</li>
    </ul>
   <ol>
       <li>Make the Sauce:</li>
-  </ol>
    <ul>
       <li>In a large skillet, heat olive oil over medium heat</li>
       <li>Add minced garlic and chopped onion, and sauté for 2-3 minutes until the onion becomes translucent</li>
@@ -59,7 +56,7 @@ p {font-family: lato;}
    </ul>
    <ol>
       <li>Serve:</li>
-  </ol>
+   </ol>
    <ul>
       <li>Add the cooked pasta to the sauce and toss until the pasta is well coated in sauce</li>
       <li>Garnish with basil leaves and Parmesan cheese</li>
