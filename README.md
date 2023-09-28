@@ -10,6 +10,9 @@ body {background:beige;}
   
 <body>
 <h1> Creamy Roasted Red Pepper and Tomato Pasta </h1>
+  <style>
+p {font-family: lato;}
+</style>
  <br>
   <h4><strong>Ingredients:</strong></h4>
    <ul>
