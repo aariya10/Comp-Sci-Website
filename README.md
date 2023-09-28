@@ -7,7 +7,6 @@ p {font-family: lato;}
 body {background:beige;}
 </style>
 </head>
-  
 <body>
 <h1> Creamy Roasted Red Pepper and Tomato Pasta </h1>
   <img src="https://jawnsicooked.com/wp-content/uploads/2022/08/Creamy-Roasted-Red-Pepper-Pasta-Sauce-40-scaled-e1692661596880.jpg" alt="Red Peper Pasta"/>
@@ -57,3 +56,4 @@ body {background:beige;}
     </ul>
    </ol>
 <a href="https://www.foodandwine.com/recipes/creamy-vegan-pasta-with-greens-peas-lemon-zest" target='_blank'>More Pasta Recipes!</a>
+</body>
