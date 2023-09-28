@@ -16,6 +16,9 @@ body {background:beige;}
  <br>
   <h4><strong>Ingredients:</strong></h4>
    <ul>
+    <style>
+  p {font-family: lato;}
+    </style>
       <li>8 ounces (2 cups) pasta of choice</li>
       <li>2 red bell peppers (roasted and peeled)</li>
       <li>4 ripe tomatoes (diced)</li>
@@ -60,10 +63,3 @@ body {background:beige;}
    </ul>
   </ol>
 </body>
-
-</head>
-<body>
-<h1> Title 2 </h1>
-<p> More words </p>
-</body>
-</html>
