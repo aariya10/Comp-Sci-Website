@@ -61,5 +61,5 @@ body {background:beige;}
      <li>Garnish with basil leaves and Parmesan cheese</li>
     </ul>
    </ol>
-  <img src="https://www.foodandwine.com/thmb/oHD89ty_sB7sflYg4P4fyCyAaFo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/green-pasta-FT-RECIPE0521-510d065cf45940fdb4e86b76000cfd80.jpg" alt="Creamy Vegan Pasta with Greens, Peas, and Lemon Zest" width=100 height=50/>
 <a href="https://www.foodandwine.com/recipes/creamy-vegan-pasta-with-greens-peas-lemon-zest" target='_blank'>More Pasta Recipes!</a>
+<img src="https://www.foodandwine.com/thmb/oHD89ty_sB7sflYg4P4fyCyAaFo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/green-pasta-FT-RECIPE0521-510d065cf45940fdb4e86b76000cfd80.jpg" alt="Creamy Vegan Pasta with Greens, Peas, and Lemon Zest" width=250 height=100/>
