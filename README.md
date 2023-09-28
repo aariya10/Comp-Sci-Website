@@ -43,7 +43,6 @@ body {background:beige;}
       <li>Remove peppers from the oven and place in bowl; cover with plastic wrap or a kitchen towel and let them cool for about 15 minutes</li>
       <li>Once cool, peel off charred skin, remove seeds, and chop the roasted peppers</li>
     </ul>
-   <ol>
      <li><u>Cook the Pasta:</u></li>
     <ul>
      <li>Cook pasta according to the package instructions until al dente; drain and set aside</li>
