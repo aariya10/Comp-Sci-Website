@@ -32,6 +32,7 @@ body {background:beige;}
       <li>Salt and black pepper to taste</li>
       <li>Fresh basil leaves/Parmesan cheese for garnish</li>
     </ul>
+  <img src="https://cookingwithcocktailrings.com/wp-content/uploads/2022/01/Creamy-Roasted-Red-Pepper-Pasta-Sauce-683x1024.jpg" alt="Creamy Roasted Red Pepper and Tomato Pasta Ingredients"/>
   <h4><strong>Instructions:</strong></h4>
    <ol>
      <li><u>Roast the Red Peppers:</u></li>
@@ -62,4 +63,3 @@ body {background:beige;}
     </ul>
    </ol>
 <a href="https://www.foodandwine.com/recipes/creamy-vegan-pasta-with-greens-peas-lemon-zest" target='_blank'>More Pasta Recipes!</a>
-<img src="https://www.foodandwine.com/thmb/oHD89ty_sB7sflYg4P4fyCyAaFo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/green-pasta-FT-RECIPE0521-510d065cf45940fdb4e86b76000cfd80.jpg" alt="Creamy Vegan Pasta with Greens, Peas, and Lemon Zest" width=250 height=100/>
