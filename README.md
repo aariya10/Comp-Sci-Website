@@ -5,7 +5,7 @@
 <title>Pasta</title>
 <style>
 p {font-family: lato;}
-body {background:magenta;}
+body {background:beige;}
 </style>
 </head>
 
