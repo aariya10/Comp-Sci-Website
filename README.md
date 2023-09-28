@@ -10,15 +10,9 @@ body {background:beige;}
   
 <body>
 <h1> Creamy Roasted Red Pepper and Tomato Pasta </h1>
- <style>
-  p {font-family: lato;}
- </style>
   <img src="https://jawnsicooked.com/wp-content/uploads/2022/08/Creamy-Roasted-Red-Pepper-Pasta-Sauce-40-scaled-e1692661596880.jpg" alt="Red Peper Pasta"/>
   <h4><strong>Ingredients:</strong></h4>
    <ul>
-    <style>
-  p {font-family: lato;}
-    </style>
       <li>8 ounces (2 cups) pasta of choice</li>
       <li>2 red bell peppers (roasted and peeled)</li>
       <li>4 ripe tomatoes (diced)</li>
