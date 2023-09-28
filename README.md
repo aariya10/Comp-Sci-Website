@@ -13,7 +13,7 @@ body {background:beige;}
  <style>
   p {font-family: lato;}
  </style>
-  <img scr="![Creamy-Roasted-Red-Pepper-Pasta](https://github.com/aariya10/Comp-Sci-Website/assets/145708728/eb4fe536-3bef-4db3-8aef-c23879fbfc1e).jpg"/>
+  <img scr="https://jawnsicooked.com/wp-content/uploads/2022/08/Creamy-Roasted-Red-Pepper-Pasta-Sauce-40-scaled-e1692661596880.jpg"/>
  <br>
   <h4><strong>Ingredients:</strong></h4>
    <ul>
