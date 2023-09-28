@@ -10,9 +10,9 @@ body {background:beige;}
   
 <body>
 <h1> Creamy Roasted Red Pepper and Tomato Pasta </h1>
-  <style>
-p {font-family: lato;}
-</style>
+ <style>
+  p {font-family: lato;}
+ </style>
  <br>
   <h4><strong>Ingredients:</strong></h4>
    <ul>
@@ -31,7 +31,7 @@ p {font-family: lato;}
     </ul>
   <h4><strong>Instructions:</strong></h4>
    <ol>
-     <li>Roast the Red Peppers:</li>
+     <li><u>Roast the Red Peppers:</u></li>
     <ul>
       <li>Preheat the oven's broiler</li>
       <li>Place red bell peppers on a baking sheet and put them under the broiler</li>
@@ -40,11 +40,11 @@ p {font-family: lato;}
       <li>Once cool, peel off charred skin, remove seeds, and chop the roasted peppers</li>
     </ul>
   <ol>
-      <li>Cook the Pasta:</li>
+      <li><u>Cook the Pasta:</u></li>
    <ul>
       <li>Cook pasta according to the package instructions until al dente; drain and set aside</li>
    </ul>
-     <li>Make the Sauce:</li>
+     <li><u>Make the Sauce:</u></li>
    <ul>
       <li>In a large skillet, heat olive oil over medium heat</li>
       <li>Add minced garlic and chopped onion, and sauté for 2-3 minutes until the onion becomes translucent</li>
@@ -53,12 +53,12 @@ p {font-family: lato;}
       <li>Pour the blended sauce back into the skillet, and stir in heavy cream, dried basil, dried oregano, red pepper flakes, salt, and black pepper</li>
       <li>Allow the sauce to simmer for 5-7 minutes, and adjut the seasonings to taste</li>
    </ul>
-     <li>Serve:</li>
-   </ol>
+     <li><u>Serve:</u></li>
    <ul>
       <li>Add the cooked pasta to the sauce and toss until the pasta is well coated in sauce</li>
       <li>Garnish with basil leaves and Parmesan cheese</li>
    </ul>
+  </ol>
 </body>
 
 </head>
