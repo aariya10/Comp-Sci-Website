@@ -62,4 +62,3 @@ body {background:beige;}
       <li>Garnish with basil leaves and Parmesan cheese</li>
    </ul>
   </ol>
-</body>
