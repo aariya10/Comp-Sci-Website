@@ -37,18 +37,33 @@ p {font-family: lato;}
       <li>Preheat the oven's broiler</li>
       <li>Place red bell peppers on a baking sheet and put them under the broiler</li>
       <li>Rotate occasionally until skin is charred and blistered (about 15-20 minutes)</li>
-      <li>Remove peppers from the oven and place in bowl. Cover with plastic wrap or a kitchen towel and let them cool for about 15 minutes</li>
+      <li>Remove peppers from the oven and place in bowl; cover with plastic wrap or a kitchen towel and let them cool for about 15 minutes</li>
+      <li>Once cool, peel off charred skin, remove seeds, and chop the roasted peppers</li>
     </ul>
-
-  
-      <li>2 tablespoons olive oil</li>
-      <li>1/2 cup heavy cream/dairy-free alternative</li>
-      <li>1/4 teaspoon red pepper flakes (adjust to taste)</li>
-      <li>1 teaspoon dried basil</li>
-      <li>1 teaspoon dried oregano</li>
-      <li>Salt and black pepper to taste</li>
-      <li>Fresh basil leaves/Parmesan cheese for garnish</li>
-    </ol>
+  <ol>
+      <li>Cook the Pasta:</li>
+  </ol>
+   <ul>
+      <li>Cook pasta according to the package instructions until al dente; drain and set aside</li>
+   </ul>
+  <ol>
+      <li>Make the Sauce:</li>
+  </ol>
+   <ul>
+      <li>In a large skillet, heat olive oil over medium heat</li>
+      <li>Add minced garlic and chopped onion, and sauté for 2-3 minutes until the onion becomes translucent</li>
+      <li>Add roasted red peppers and diced tomatoes to the skillet; cook for another 5-7 minutes, or until the tomatoes break down and the mixture thickens slightly</li>
+      <li>Transfer the pepper and tomato mixture to a blender or food processor, and blend until creamy</li>
+      <li>Pour the blended sauce back into the skillet, and stir in heavy cream, dried basil, dried oregano, red pepper flakes, salt, and black pepper</li>
+      <li>Allow the sauce to simmer for 5-7 minutes, and adjut the seasonings to taste</li>
+   </ul>
+   <ol>
+      <li>Serve:</li>
+  </ol>
+   <ul>
+      <li>Add the cooked pasta to the sauce and toss until the pasta is well coated in sauce</li>
+      <li>Garnish with basil leaves and Parmesan cheese</li>
+   </ul>
 </body>
 
 </head>
