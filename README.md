@@ -32,7 +32,7 @@ body {background:beige;}
       <li>Salt and black pepper to taste</li>
       <li>Fresh basil leaves/Parmesan cheese for garnish</li>
     </ul>
-  <img src="https://www.nospoonnecessary.com/wp-content/uploads/2021/05/Roasted-Red-Pepper-Pasta-Sauce-88.jpg" alt="Creamy Roasted Red Pepper and Tomato Pasta Sauce" width=1620 height=800/>
+  <img src="https://www.nospoonnecessary.com/wp-content/uploads/2021/05/Roasted-Red-Pepper-Pasta-Sauce-88.jpg" alt="Creamy Roasted Red Pepper and Tomato Pasta Sauce" width=1620 height=500/>
   <h4><strong>Instructions:</strong></h4>
    <ol>
      <li><u>Roast the Red Peppers:</u></li>
